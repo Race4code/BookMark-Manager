@@ -1,5 +1,5 @@
 # ABOUT THE BOOKMARK MANAGER PROJECT
-This project is simple yet beautiful Bookmark creater for your daily bookmarking\
+This project is simple yet beautiful Bookmark creator for your daily bookmarking
 # FEATURES:
 1)Create a bookmark with several informatoins like title,link to the page,description,tags and    date.\
 2)You can update the created bookmarks as well.\
