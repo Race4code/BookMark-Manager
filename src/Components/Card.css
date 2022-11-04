@@ -1,0 +1,47 @@
+.card{
+    width: 20%;
+    min-width: 220px;
+    max-width: 20%;
+    max-height: 30%;
+    min-height: 30%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    border:1px solid rgb(158, 202, 250);
+    box-shadow: 0px 1px 10px 1px rgb(158, 202, 250);
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+}
+.image>img{
+    width:13em;
+    min-width: 100%;
+    max-width: 20rem;
+    min-height: 10rem;
+    max-height: 10rem;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    padding: 5px 10px;
+}
+.buttons{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0px;
+    padding: 10px 10px;   
+}
+.buttons>button{
+    cursor: pointer;
+    border-radius: 5px;
+    border:1px solid rgb(208, 201, 201);
+    padding:5px 10px;
+    font-size: 20px;
+}
+.delete{
+    background-color: red;
+    color:white;
+}
+.update{
+    background-color: rgb(30, 125, 197);
+    color:white;
+}
