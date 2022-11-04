@@ -1,3 +1,23 @@
+# ABOUT THE BOOKMARK MANAGER PROJECT
+This project is simple yet beautiful Bookmark creater for your daily bookmarking\
+# FEATURES:
+1)Create a bookmark with several informatoins like title,link to the page,description,tags and    date.\
+2)You can update the created bookmarks as well.\
+3)You can delete a bookmark if you done with that one.\
+4)You can simply search your bookmark.
+
+# PREVIEW OF THE BOOKMARK MANAGER
+1) HOME PAGE WITHOUT ANY BOOKMARK
+![homepage](https://user-images.githubusercontent.com/77785150/200056412-416c268f-839f-4b0b-94ad-cfc953c7d59a.png)
+2) CREATE BOOKMARK FORM
+![create bookmark](https://user-images.githubusercontent.com/77785150/200056549-40d95ab3-bc36-45dc-8552-c579181a67a3.png)
+3) HOME PAGE WITH BOOKMARKS
+![home page with book marks](https://user-images.githubusercontent.com/77785150/200056600-0f07b196-cd4d-46b9-b3d8-674136f71975.png)
+4) UPDATE THE BOOKMARK
+![update bookmark](https://user-images.githubusercontent.com/77785150/200056651-3426a3e2-8eb4-4a56-a2f3-103485d4bf8d.png)
+5) SEARCH FOR PARTICULAR BOOKMARK
+![search](https://user-images.githubusercontent.com/77785150/200056717-119db9d3-7bd4-4953-80c8-7db141efe132.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
